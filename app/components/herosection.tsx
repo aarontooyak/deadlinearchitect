@@ -5,10 +5,10 @@ const HeroSection: React.FC = () => {
     <section className="bg-gray-900 py-20">
       <div className="container mx-auto px-4">
         <h1 className="text-4xl font-bold mb-4 text-center text-white">
-          Take Control of Your Deadlines
+          Reverse Engineer Your Deadlines
         </h1>
         <p className="text-lg text-gray-300 mb-8 text-center">
-          Reverse engineer your project timelines and generate key Agile/Scrum milestones effortlessly.
+          Take control of your project timelines and generate key Agile/Scrum milestones effortlessly.
         </p>
         <div className="flex justify-center">
           <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
