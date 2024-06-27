@@ -4,6 +4,7 @@ import { format } from 'date-fns';
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
     console.log("API handler invoked");  // Log to ensure the handler is invoked
+    console.log("Request body:", req.body);  // Log the request body to ensure data is received correctly
 
     if (req.method !== 'POST') {
         res.setHeader('Allow', ['POST']);
