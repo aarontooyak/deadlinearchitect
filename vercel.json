@@ -1,0 +1,7 @@
+{
+     "functions": {
+       "api/timeline.ts": {
+         "maxDuration": 60
+       }
+     }
+   }
