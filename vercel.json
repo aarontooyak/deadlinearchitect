@@ -1,7 +1,7 @@
 {
-     "functions": {
-       "api/timeline.ts": {
-         "maxDuration": 60
-       }
-     }
-   }
+  "functions": {
+    "pages/api/timeline.ts": {
+      "maxDuration": 60
+    }
+  }
+}
